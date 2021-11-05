@@ -14,3 +14,9 @@
 [<img src="https://i.imgur.com/3P6HXdU.png" alt="Example"/>]() 
 
 Here is where you can make changes to the rule set 
+
+
+
+After you finish editing it click on the propose changes button and add a description and title 
+
+[<img src= "https://i.imgur.com/ThNKhiH.png" alt="Example"/>]() 
